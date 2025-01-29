@@ -5,3 +5,7 @@ M
 contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
 R
 "contracts/credential-issuance.clar,e/8/e8cc6a7425325a7af9cc95450ccc857f9fe46165
+L
+tests/access-control.test.ts,1/e/1e94a77628633661eb7a04e44552fb418034370a
+Q
+!tests/credential-issuance.test.ts,8/a/8a655c35c0ef4977814e5de81eea3103aaff30f0
