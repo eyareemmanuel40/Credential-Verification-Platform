@@ -11,3 +11,5 @@ Q
 !tests/credential-issuance.test.ts,8/a/8a655c35c0ef4977814e5de81eea3103aaff30f0
 X
 (contracts/energy-asset-registration.clar,1/2/121d1671d557b5cc31ae888e5bde9d4acc5bbcda
+W
+'tests/energy-asset-registration.test.ts,7/0/703a34e5799e9b6aa221cb9b99a9c879ae993537
