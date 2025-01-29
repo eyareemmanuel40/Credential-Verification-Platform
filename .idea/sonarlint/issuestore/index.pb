@@ -9,3 +9,5 @@ L
 tests/access-control.test.ts,1/e/1e94a77628633661eb7a04e44552fb418034370a
 Q
 !tests/credential-issuance.test.ts,8/a/8a655c35c0ef4977814e5de81eea3103aaff30f0
+X
+(contracts/energy-asset-registration.clar,1/2/121d1671d557b5cc31ae888e5bde9d4acc5bbcda
